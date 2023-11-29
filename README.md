@@ -1,6 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 3D Developer Portfolio in React with Three.js
 
 Currently, two official plugins are available:
 
